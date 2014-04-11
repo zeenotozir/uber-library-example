@@ -1,6 +1,7 @@
 {
   "name": "uber-library-example",
-   "version": "1.0.0",
-  "license": "MITa",
-  "author": "me"
+  "author": "Joe Goggins <joe@spark.io>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "version": "0.0.1"
 }
